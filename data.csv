@@ -1,0 +1,101 @@
+CSAT_Score,Review,sentiment
+5,The service was excellent and very fast,Positive
+4,Support team helped me quickly,Positive
+1,Very disappointed with the response time,Negative
+2,The issue was not resolved properly,Negative
+3,Service was okay but could be better,Neutral
+5,Agent was very polite and helpful,Positive
+4,Good support overall,Positive
+2,Had to wait too long for a reply,Negative
+3,The solution worked but took time,Neutral
+5,Great experience with customer support,Positive
+4,Problem resolved faster than expected,Positive
+1,No one responded to my complaint,Negative
+2,Support was unhelpful,Negative
+3,Average experience nothing special,Neutral
+5,Very happy with the resolution,Positive
+4,Support staff was friendly,Positive
+1,My problem is still unresolved,Negative
+2,Not satisfied with the service,Negative
+3,Response was slow but acceptable,Neutral
+5,Fantastic support experience,Positive
+4,Good help from the team,Positive
+1,Customer service ignored my request,Negative
+2,Agent didn't understand my issue,Negative
+3,It was fine but not great,Neutral
+5,Support fixed the issue quickly,Positive
+4,Very helpful assistance,Positive
+1,Extremely poor support experience,Negative
+2,Issue still persists after contacting support,Negative
+3,Average resolution time,Neutral
+5,Superb support service,Positive
+4,Agent guided me well,Positive
+1,Very frustrating interaction,Negative
+2,Not the help I expected,Negative
+3,Okay service overall,Neutral
+5,Best support experience ever,Positive
+4,Quick and efficient support,Positive
+1,Support closed my ticket without solving,Negative
+2,Very slow response from team,Negative
+3,Decent support but needs improvement,Neutral
+5,Problem fixed immediately,Positive
+4,Happy with the help provided,Positive
+1,Extremely dissatisfied with service,Negative
+2,The agent was rude,Negative
+3,Service quality was moderate,Neutral
+5,Outstanding assistance from support,Positive
+4,Helpful team members,Positive
+1,Nobody followed up on my issue,Negative
+2,Not satisfied with resolution time,Negative
+3,Support eventually solved it,Neutral
+5,Customer service exceeded expectations,Positive
+4,Very cooperative support staff,Positive
+1,The issue got worse after contacting support,Negative
+2,They misunderstood my problem,Negative
+3,Support experience was average,Neutral
+5,Great support professionalism,Positive
+4,Issue resolved properly,Positive
+1,No help received from support team,Negative
+2,Slow and confusing responses,Negative
+3,Neutral experience overall,Neutral
+5,Perfect resolution and service,Positive
+4,Support team was responsive,Positive
+1,Extremely poor communication,Negative
+2,Unhelpful answers from support,Negative
+3,Service was acceptable,Neutral
+5,Excellent support quality,Positive
+4,Quick resolution provided,Positive
+1,Customer service disappointed me,Negative
+2,Very inefficient help desk,Negative
+3,Support response was moderate,Neutral
+5,Really impressed with support,Positive
+4,Agent solved my problem,Positive
+1,They ignored multiple emails,Negative
+2,Support didn't provide clear solution,Negative
+3,Experience was neutral,Neutral
+5,Very efficient service,Positive
+4,Helpful responses from support,Positive
+1,Support system is broken,Negative
+2,Too many delays in responses,Negative
+3,Support was fine but slow,Neutral
+5,Extremely satisfied with support,Positive
+4,Professional customer service,Positive
+1,Unacceptable service quality,Negative
+2,Very frustrating customer support,Negative
+3,Nothing special about service,Neutral
+5,Quick and reliable support,Positive
+4,Team handled issue well,Positive
+1,My request was ignored completely,Negative
+2,Support gave incorrect information,Negative
+3,Service quality was average,Neutral
+5,Fantastic problem resolution,Positive
+4,Good support coordination,Positive
+1,Support experience was terrible,Negative
+2,Very slow ticket resolution,Negative
+3,Support was acceptable overall,Neutral
+5,Very professional assistance,Positive
+4,Support agent was knowledgeable,Positive
+1,Service was extremely poor,Negative
+2,Issue remained unresolved,Negative
+3,It was an average experience,Neutral
+5,Excellent response from support,Positive

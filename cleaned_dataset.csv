@@ -1,0 +1,101 @@
+CSAT_Score,Review,sentiment,review_length
+5,service excellent fast,2,39
+4,support team helped quickly,2,30
+1,disappointed response time,0,40
+2,issue resolved properly,0,35
+3,service okay could better,1,36
+5,agent polite helpful,2,33
+4,good support overall,2,20
+2,wait long reply,0,32
+3,solution worked took time,1,33
+5,great experience customer support,2,38
+4,problem resolved faster expected,2,37
+1,one responded complaint,0,32
+2,support unhelpful,0,21
+3,average experience nothing special,1,34
+5,happy resolution,2,30
+4,support staff friendly,2,26
+1,problem still unresolved,0,30
+2,satisfied service,0,30
+3,response slow acceptable,1,32
+5,fantastic support experience,2,28
+4,good help team,2,23
+1,customer service ignored request,0,35
+2,agent didnt understand issue,0,32
+3,fine great,1,25
+5,support fixed issue quickly,2,31
+4,helpful assistance,2,23
+1,extremely poor support experience,0,33
+2,issue still persists contacting support,0,45
+3,average resolution time,1,23
+5,superb support service,2,22
+4,agent guided well,2,20
+1,frustrating interaction,0,28
+2,help expected,0,23
+3,okay service overall,1,20
+5,best support experience ever,2,28
+4,quick efficient support,2,27
+1,support closed ticket without solving,0,40
+2,slow response team,0,28
+3,decent support needs improvement,1,36
+5,problem fixed immediately,2,25
+4,happy help provided,2,28
+1,extremely dissatisfied service,0,35
+2,agent rude,0,18
+3,service quality moderate,1,28
+5,outstanding assistance support,2,35
+4,helpful team members,2,20
+1,nobody followed issue,0,30
+2,satisfied resolution time,0,34
+3,support eventually solved,1,28
+5,customer service exceeded expectations,2,38
+4,cooperative support staff,2,30
+1,issue got worse contacting support,0,44
+2,misunderstood problem,0,29
+3,support experience average,1,30
+5,great support professionalism,2,29
+4,issue resolved properly,2,23
+1,help received support team,0,34
+2,slow confusing responses,0,28
+3,neutral experience overall,1,26
+5,perfect resolution service,2,30
+4,support team responsive,2,27
+1,extremely poor communication,0,28
+2,unhelpful answers support,0,30
+3,service acceptable,1,22
+5,excellent support quality,2,25
+4,quick resolution provided,2,25
+1,customer service disappointed,0,32
+2,inefficient help desk,0,26
+3,support response moderate,1,29
+5,really impressed support,2,29
+4,agent solved problem,2,23
+1,ignored multiple emails,0,28
+2,support didnt provide clear solution,0,37
+3,experience neutral,1,22
+5,efficient service,2,22
+4,helpful responses support,2,30
+1,support system broken,0,24
+2,many delays responses,0,28
+3,support fine slow,1,25
+5,extremely satisfied support,2,32
+4,professional customer service,2,29
+1,unacceptable service quality,0,28
+2,frustrating customer support,0,33
+3,nothing special service,1,29
+5,quick reliable support,2,26
+4,team handled issue well,2,23
+1,request ignored completely,0,33
+2,support gave incorrect information,0,34
+3,service quality average,1,27
+5,fantastic problem resolution,2,28
+4,good support coordination,2,25
+1,support experience terrible,0,31
+2,slow ticket resolution,0,27
+3,support acceptable overall,1,30
+5,professional assistance,2,28
+4,support agent knowledgeable,2,31
+1,service extremely poor,0,26
+2,issue remained unresolved,0,25
+3,average experience,1,28
+5,excellent response support,2,31
